@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Instructions"
+        android:textAlignment="center"
+        android:textColor="#000"
+        android:background="#c9e0dc"
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textColor="#000"
+        android:background="#c9e0dc"
+        android:text="- Searching locations: Enter a location to textbox then tap the magnifying glass button."
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textColor="#000"
+        android:background="#c9e0dc"
+        android:text="- Finding direction between two locations: Touch and hold on the origin on the map until a pink marker appears. Touch and hold on the destination on the map until a violet marker appears. Then wait for the application to give the result."
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textColor="#000"
+        android:background="#c9e0dc"
+        android:text="- Help: Tap the question mark button."
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textColor="#000"
+        android:background="#c9e0dc"
+        android:text="- About this app: Tap the i button"
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="(tap outside this pop up or the back button to close)"
+        android:textAlignment="center"
+        android:textColor="#ff0000"
+        android:background="#c9e0dc"
+        />
+</LinearLayout>
